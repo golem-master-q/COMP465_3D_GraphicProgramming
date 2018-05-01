@@ -1,0 +1,10 @@
+.vs/
+glm/
+*.sdf
+*.sln
+*.suo
+*.vcxproj
+*.txt
+*.user
+*.filters
+
