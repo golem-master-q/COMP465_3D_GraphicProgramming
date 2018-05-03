@@ -16,4 +16,4 @@
   - Implemented ambient, diffuse(model shade) and spot light(from sun) 
   
 ### Demo
-![Alt Text](DEMO.gif)
+![](./Demo.gif)
